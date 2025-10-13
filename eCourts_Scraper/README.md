@@ -71,3 +71,5 @@ python web_interface.py
 ```
 
 Then open http://127.0.0.1:5000/ in your browser for a simple web form to input details and scrape.
+
+Made by Shreyash Vinchurkar
