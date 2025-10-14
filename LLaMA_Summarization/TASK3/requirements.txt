@@ -1,0 +1,8 @@
+transformers
+torch
+datasets
+pandas
+accelerate
+peft
+rouge_score
+nltk
