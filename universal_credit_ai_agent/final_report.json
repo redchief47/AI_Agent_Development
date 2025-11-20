@@ -1,0 +1,50 @@
+{
+    "summary": "Error in summarization",
+    "sections": {
+        "definitions": "Error extracting: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n",
+        "obligations": "Error extracting",
+        "responsibilities": "Error extracting",
+        "eligibility": "Error extracting",
+        "payments": "Error extracting",
+        "penalties": "Error extracting",
+        "record_keeping": "Error extracting"
+    },
+    "rules": [
+        {
+            "rule": "Act must define key terms",
+            "status": "pass",
+            "evidence": "Extracted definitions",
+            "confidence": 90
+        },
+        {
+            "rule": "Act must specify eligibility criteria",
+            "status": "fail",
+            "evidence": "Not found",
+            "confidence": 50
+        },
+        {
+            "rule": "Act must specify responsibilities of the administering authority",
+            "status": "fail",
+            "evidence": "Not found",
+            "confidence": 50
+        },
+        {
+            "rule": "Act must include enforcement or penalties",
+            "status": "fail",
+            "evidence": "Not found",
+            "confidence": 50
+        },
+        {
+            "rule": "Act must include payment calculation or entitlement structure",
+            "status": "fail",
+            "evidence": "Not found",
+            "confidence": 50
+        },
+        {
+            "rule": "Act must include record-keeping or reporting requirements",
+            "status": "fail",
+            "evidence": "Not found",
+            "confidence": 50
+        }
+    ]
+}

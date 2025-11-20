@@ -1,0 +1,38 @@
+[
+    {
+        "rule": "Act must define key terms",
+        "status": "pass",
+        "evidence": "Extracted definitions",
+        "confidence": 90
+    },
+    {
+        "rule": "Act must specify eligibility criteria",
+        "status": "fail",
+        "evidence": "Not found",
+        "confidence": 50
+    },
+    {
+        "rule": "Act must specify responsibilities of the administering authority",
+        "status": "fail",
+        "evidence": "Not found",
+        "confidence": 50
+    },
+    {
+        "rule": "Act must include enforcement or penalties",
+        "status": "fail",
+        "evidence": "Not found",
+        "confidence": 50
+    },
+    {
+        "rule": "Act must include payment calculation or entitlement structure",
+        "status": "fail",
+        "evidence": "Not found",
+        "confidence": 50
+    },
+    {
+        "rule": "Act must include record-keeping or reporting requirements",
+        "status": "fail",
+        "evidence": "Not found",
+        "confidence": 50
+    }
+]
